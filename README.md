@@ -1,4 +1,4 @@
-💫 About Me
+##💫 About Me
 🎨 Crafting beautiful & responsive user interfaces with React & Tailwind
 🛠️ Passionate about building scalable, modern web apps
 📚 Currently learning Next.js 14 & Advanced UI Performance Optimization
