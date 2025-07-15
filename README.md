@@ -1,8 +1,11 @@
-👋 Hi, I’m S Anil Kumar
-💻 I’m a Frontend Developer passionate about building modern, responsive, and user-friendly web applications.
-🚀 I work with React.js, Next.js, Tailwind CSS, and TypeScript, creating clean UI with great UX.
-📚 Currently learning advanced frontend architecture & performance optimization.
-🎯 I enjoy turning ideas into reality through code and solving real-world problems with technology.<br>📫 How to reach me akstifens2@gmail.com
+💫 About Me
+🎨 Crafting beautiful & responsive user interfaces with React & Tailwind
+🛠️ Passionate about building scalable, modern web apps
+📚 Currently learning Next.js 14 & Advanced UI Performance Optimization
+💻 Experienced in React.js, TypeScript, Tailwind CSS, and REST APIs
+🌱 Exploring UI/UX design principles to improve user experience
+⚡ Enthusiast in Web Development, AI-powered frontends, and Cloud deployment
+☕ I believe a clean UI + a strong coffee = productive coding sessions.<br>📫 How to reach me akstifens2@gmail.com
 
 
 ## 🌐 Socials:
