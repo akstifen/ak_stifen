@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm S Anil Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-🎨 Crafting beautiful & responsive user interfaces with React & Tailwind
-🛠️ Passionate about building scalable, modern web apps
+<h5>🎨 Crafting beautiful & responsive user interfaces with React & Tailwind<h5>
+<h5>🛠️ Passionate about building scalable, modern web apps<h5>
 📚 Currently learning Next.js 14 & Advanced UI Performance Optimization
 💻 Experienced in React.js, TypeScript, Tailwind CSS, and REST APIs
 🌱 Exploring UI/UX design principles to improve user experience
