@@ -1,5 +1,8 @@
-# 💫 About Me:
-🌱 I’m currently learning JavaScript, C, Data Structures & Algorithms<br>📫 How to reach me akstifens2@gmail.com
+👋 Hi, I’m S Anil Kumar
+💻 I’m a Frontend Developer passionate about building modern, responsive, and user-friendly web applications.
+🚀 I work with React.js, Next.js, Tailwind CSS, and TypeScript, creating clean UI with great UX.
+📚 Currently learning advanced frontend architecture & performance optimization.
+🎯 I enjoy turning ideas into reality through code and solving real-world problems with technology.<br>📫 How to reach me akstifens2@gmail.com
 
 
 ## 🌐 Socials:
